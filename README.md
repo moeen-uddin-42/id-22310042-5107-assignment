@@ -1,4 +1,16 @@
-Md Moeen Uddin 
-id-22310042
-reg-000013082
-5th year 1st semester 
+# Assignemnt on Advanced-Multivariate-Analysis
+
+
+## Submitted by
+**Name**: Md Moeen Udiin<br>
+**ID**: 22310042 <br>
+**Registration**: 000013082 <br>
+Department of Statistics<br>
+Begum Rokeya University, Rangpur<br>
+
+## Submitted to
+**Dr. Md. Siddikur Rahman** <br>
+Associate Professor<br>
+Department of Statistics<br>
+Begum Rokeya University, Rangpur<br>
+
