@@ -2,7 +2,7 @@
 
 
 ## Submitted by
-**Name**: Md Moeen Udiin<br>
+**Name**: Md Moeen Uddin<br>
 **ID**: 22310042 <br>
 **Registration**: 000013082 <br>
 Department of Statistics<br>
